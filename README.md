@@ -1,5 +1,5 @@
 # RedditUserCommentGet
-RUCG
-Uses:
-tkinter https://wiki.python.org/moin/TkInter
+RUCG<br/>
+Uses:<br/>
+tkinter https://wiki.python.org/moin/TkInter<br/>
 praw https://praw.readthedocs.io/en/latest/
